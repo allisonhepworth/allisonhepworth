@@ -7,3 +7,4 @@ Welcome to my GitHub account! I am Allison Hepworth, PhD. I use R and Python for
 -  :sparkles: Minors: Information Sciences and Technology and Nutritional Sciences 
 -  :hibiscus: Pronouns: She/Her/They/Them/Dr 
 Role: Assistant Professor
+About me
