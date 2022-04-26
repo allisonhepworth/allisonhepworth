@@ -1,4 +1,4 @@
-##Welcome to my GitHub account! I am Allison Hepworth, PhD. I use R and Python to analyze data about food.
+Welcome to my GitHub account! I am Allison Hepworth, PhD. I use R and Python to analyze data about food.
 
 -  :milky_way: Currently working on: Building my R tidyverse and Python programming skills
 -  :bulb: Research focus: Digital food media, cookbooks, consumer food choices  
